@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Search</string>
+    <string name="search_news">Search News</string>
+    <string name="date">Pick a Date</string>
+    <string name="find_button_text">Find</string>
+    <string name="no_results_text">No Results Found</string>
+</resources>
